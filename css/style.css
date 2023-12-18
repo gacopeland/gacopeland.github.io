@@ -1,0 +1,67 @@
+
+ main{
+ width: 35%;
+ margin-left:35%;
+ }
+ 
+ aside{
+ width: 200px;
+ position:fixed;
+ top: 100px;
+ right: 70px;
+ 
+ }
+ 
+ section{
+ border: 7px rgb(123, 33, 123) ;
+ margin-top: 25px;
+ padding: 10px;
+ text-align: center;
+ }
+ 
+ section{
+ border-style:double;
+ }
+ 
+ section img{
+ width: 80%;
+ border: 4px rgb(173, 228, 228)solid;
+ padding: 10px;
+ }
+ 
+ section img:hover{
+ background-color: rgb(197, 229, 239);
+ }
+ 
+ footer{
+ width: 300px;
+ position: fixed;
+ bottom: 25px;
+ left: 25px;
+ }
+ 
+ #splashgif {
+ text-align: center;
+ }
+ 
+ #splashgifsmall {
+     text-align: left;
+     }
+ 
+ #splashgif:hover{
+ border: 1px;
+ }
+ 
+ #splashheader {
+     background-color:rgb(173, 228, 228);
+     width: 500px;
+     text-align: center;
+     margin:auto; 
+ }
+ 
+ #splashnav {
+     background-color:rgb(248, 136, 248) ;
+     width: 500px;
+     text-align: center;
+     margin:auto; 
+ }

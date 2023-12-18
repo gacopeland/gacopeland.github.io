@@ -1,1 +1,0 @@
-# gacopeland.github.io
